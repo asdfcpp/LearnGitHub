@@ -2,3 +2,5 @@
 2
 czy_commit_1
 czy_commit_2
+Bob_commit_1
+Bob_commit_2
