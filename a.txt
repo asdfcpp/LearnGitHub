@@ -7,3 +7,4 @@ Bob_commit_2
 czy_commit_3
 GitHub1
 GitHub2
+https_test
